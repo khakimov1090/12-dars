@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 93%;
+    margin: 0 auto;
+}
+header{
+    width: 100%;
+    background: #4A2B33;    
+}
+ul{
+    display: flex;
+    gap: 20px;
+}
+
+nav{
+    width: 1400px;
+    height: 75px;   
+    display: flex;
+    padding-top:22px ;
+}
+.navli a{
+    text-decoration: none;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #D27487;    
+}
+.navli{
+    color: #4A2B33;
+}
+.center img{
+    padding-left: 400px; 
+    height: 25px;  
+}
+.right img{
+    padding-left: 475px;
+}
+.container-img{
+    width: 1410px;
+    padding-bottom: 26px;
+}
+.row{
+    width: 900px;
+    height: 273px;
+    padding: 0px 16px 24px 15px;    
+    margin: 0 auto;
+    padding-top: 220px;
+margin-bottom: 420px;
+}
+.p12{
+    font-family: Azeret Mono;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 21.6px;
+    text-align: center;
+    width: 93px;
+    height: 22px;  
+    margin: 0 auto;      
+}
+.p22{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 44.8px;
+    text-align: center;
+    width: 869px;
+    height: 224px;        
+}
+.roww1 img{
+    width: 100%;
+}
+.roww2{
+    width: 100%;
+    height: 473px;
+    background: #AA9E54;
+    margin-top: -5px;    
+}
+.roww2 .info{
+    width: 1328px;
+    height: 233px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding-left:56px ;
+    padding-right: 56px;
+    padding-bottom:120px ;
+    padding-top: 120px ;
+}
+p{
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 36.4px;
+    text-align: center;
+    
+}
+.p16{
+    width: 300px;
+}
+.roww3 img{
+    width: 100%;
+    height: 672px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.roww4 .left h1{
+    font-family: Azeret Mono;
+    font-size: 47px;
+    font-weight: 400;
+    line-height: 62.5px;
+    letter-spacing: 1px;
+    width: 413px;
+    height: 125px;
+    color: #D27487;   
+    position: absolute;    
+    left: 40px; 
+}
+.roww4{
+    width: 100%;
+    height: 400px;
+    background: #4A2B33;  
+    display: flex;  
+}
+.roww4 .right p{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    width: 595px;
+    height: 189px;
+    color: #D27487;        
+}
+.roww5{
+    display: flex;
+    width: 1360px;
+    height: 221px;  
+    margin: 0 auto;  
+    justify-content: space-between;
+    padding-top: 110px;
+}
+footer img{
+    width: 100%;
+    height: 187px;    
+}
